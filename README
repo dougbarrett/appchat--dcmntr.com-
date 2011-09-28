@@ -1,0 +1,9 @@
+APPCHAT
+
+INFO:
+Created with CodeIgniter.
+
+SETUP:
+1. Import appchat.sql frame into MySQL.
+2. Reconfigure /application/configure/database.php with appropriate information.
+3. Have fun!
